@@ -1,0 +1,30 @@
+package Gun27._01_Ornek;
+
+public class  Utility {
+     public String getString(int sayi)
+     {
+         return String.valueOf(sayi);
+
+     }
+     public static String getString2(int sayi)
+
+     {
+         return String.valueOf(sayi);
+     }
+
+
+}   //STATIC OLAN METODLAR SINIFA YANİ CLASSA AİTTİR****CLASA AİTTİR
+    //TİPE AİTTİR
+    // STATİC OLMAYANLAR KİME AİT NESNEYE AİT BU SEBEPLE***STATİK OLMAYANLAR NESNEYE AİTTİR**ÇALIŞTIRMAK GEREKİYOSA FİELD OLUŞTURMALIYIZ
+    //MUTLAKA OLUŞTURULMALARI GEREKİYOR
+
+    // NESNEYİ İLGİLENDİREN METODLARI NORMAL YAZIYORUZ
+   //NESNEYİ İLGİLENDİRMEYEN,TİPİ İLGİLENDİREN
+   //METODLARI STATİC İLE YAZIYORUZ.
+
+//KENDİ OLUŞTURDUĞUMUZ OBJELERİ KULLANIRSAK STATİK KULLANMIYORUZ**
+//BUNLARI KULLANMIYOSAK STATİK KULLANCAZ**
+//BU STATTİKİN METODLARDA BÖYLE BİR ETKİSİ VAR**
+
+//DEĞİŞKENLERDE YANİ STATİK VARİABLESLARDA İSE
+

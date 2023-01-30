@@ -1,0 +1,20 @@
+
+
+  // Math sınıfndaki metodlarıdan 5 tanesini
+    // kendi isimlendirmenizle ayrı bir sınıfta yazarak,
+    // (kendi metodunuzun içinde Math.fonksiyonlarını kullanabilirsiniz)
+    // mainden nesne oluşturmadan direk kullanılmasını sağlatacak örnek
+    // kullanımlarını yazınız.
+
+
+        System.out.println("a nın mutlak değeri="+ Math.abs(-12));//12
+        System.out.println("a ve b den büyük olanı ="+Math.max(a,b));//4
+        System.out.println("a  ve b den küçük olanı="+Math.min(a,b));//-12
+        System.out.println(" 2 nin 3. kuvveti="+Math.pow(2,3));//8
+        System.out.println(" b nin karekökü="+ Math.sqrt(b));//2
+        System.out.println("round  (yuvarlama) 3.1="+ Math.round(3.1));//3
+        System.out.println(" round (yuvarlama) 3.5="+Math.round(3.5));//4
+        System.out.println(" ceil 3.1 = "+ Math.ceil(3.1));// bu rakamdan büyük en yakın tam sayıyı ver
+        System.out.println(" ceil 3.5 ="+ Math.ceil(3.5));// bu rakamdan en büyük en yakın tam sayı
+        System.out.println( " floor 3.1 ="+ Math.floor(3.1));// verdiğim rakamdan en küçük en yakın tam sayıyı ver demek
+        System.out.println(" floor 3.5 ="+Math.floor(3.5));// bu rakamdan en küçük en yakın tam sayıyı ver demektir

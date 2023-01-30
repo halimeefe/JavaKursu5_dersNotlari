@@ -1,0 +1,10 @@
+package Gun29._01_ClassErişimleri.Paket1;
+
+public class PublicErisim {
+
+    //STUDENT,BANKA
+    //PUBLİC CLASS
+    //AYNI PAKETTEN ULAŞILABİLDİ VE DİĞER BÜTÜN
+    //PAKETLERDEN DE ULAŞILIYOR
+    // PROJE BAZLI  PROJE DAHİLİNDE OLARAK FARKLI PAKETLERDEN ERİŞİM SAĞLANIR
+}
